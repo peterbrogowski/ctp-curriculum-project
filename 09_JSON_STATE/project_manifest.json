@@ -1,0 +1,15 @@
+{
+  "project_name": "CTP Curriculum Project",
+  "export_name": "CTP_Curriculum_Project_Export",
+  "status": "in_progress",
+  "current_focus": [
+    "project continuity export",
+    "AI handoff readiness",
+    "source validation structure"
+  ],
+  "next_actions": [
+    "import raw source files",
+    "audit current phase",
+    "resume curriculum development from latest verified point"
+  ]
+}
